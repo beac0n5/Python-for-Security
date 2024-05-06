@@ -76,6 +76,6 @@ tabulate==0.8.9
 update==0.0.1
 urllib3==1.26.9
 wcwidth==0.2.5
-Werkzeug==2.1.2
+Werkzeug==3.0.3
 WMI==1.5.1
 yarl==1.8.1
